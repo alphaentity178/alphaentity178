@@ -1,7 +1,7 @@
 
 
 
-<h1> Hossain Bin ayeedS </h1>
+<h1> Hossain Bin Sayeed </h1>
 
 **`Digital Craftsman (Full Stack Web Developer/ ML & AI(Learning..)`**
 
