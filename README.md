@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphaentity178&label=Profile%20views&color=0e75b6&style=flat" alt="alphaentity178" /> </p>
 
-I am a student at Mymensingh Engineering College with a passion for full-stack web development and app development. In my spare time, I enjoy participating in competitive programming competitions and solving algorithmic challenges.
+I am a student at Mymensingh Engineering College with a passion for full-stack web development and app development. In my spare time, I enjoy participating in competitive programming competitions and solving algorithmic challenges and also explore myself with Machine Learning(ML) and Artificial Intelligence(AI).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
