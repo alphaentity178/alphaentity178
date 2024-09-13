@@ -12,11 +12,12 @@ I am a student at Mymensingh Engineering College with a passion for full-stack w
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/alphaentity178">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alphaentity178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alphaentity178&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/alphaentity178">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alphaentity178&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alphaentity178&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 <hr>
 
 ### Languages
